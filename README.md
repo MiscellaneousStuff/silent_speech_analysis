@@ -1,4 +1,4 @@
-    # sEMG Silent Speech Analysis
+# sEMG Silent Speech Analysis
 
 ## About
 
@@ -9,6 +9,8 @@ Analysis of open-source sEMG silent speech datasets.
 Below are a list of the currently analysed datasets:
 
 ### Digital Voicing of Silent Speech
+
+[Arxiv Link](https://arxiv.org/pdf/2010.02960.pdf)
 
 - Open vocabulary
     - Parallel Silent / Vocalised Speech (Es, Ev, Av)
