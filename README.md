@@ -21,6 +21,7 @@ Below are a list of the currently analysed datasets:
 ### David Gaddy and Dan Klein
 
 [Digital Voicing of Silent Speech](https://arxiv.org/pdf/2010.02960.pdf)
+
 [An Improved Model for Voicing Silent Speech](https://arxiv.org/pdf/2106.01933.pdf)
 
 This dataset is analysed within the `dgaddy_analysis.ipynb`
