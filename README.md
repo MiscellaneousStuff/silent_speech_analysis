@@ -22,8 +22,13 @@ Below are a list of the currently analysed datasets:
 
 [Digital Voicing of Silent Speech](https://arxiv.org/pdf/2010.02960.pdf)
 [An Improved Model for Voicing Silent Speech](https://arxiv.org/pdf/2106.01933.pdf)
+
 This dataset is analysed within the `dgaddy_analysis.ipynb`
-notebook as the 
+notebook as there are two related papers for the dataset.
+
+Both papers are also analysed in further depth within `docs/dgaddy.md`
+as it is important to read the authors published papers to fully
+understand how they use their dataset to train their system.
 
 - Open vocabulary
     - Parallel Silent / Vocalised Speech (Es, Ev, Av)
