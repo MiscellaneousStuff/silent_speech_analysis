@@ -11,7 +11,7 @@ and Debian-based Linux distributions, is to use this
 command:
 
 ```bash
-jupyter notebook --allow-root --no-browser
+jupyter lab --allow-root --no-browser
 ```
 
 ## Datasets
