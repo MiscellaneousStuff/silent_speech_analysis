@@ -4,13 +4,26 @@
 
 Analysis of open-source sEMG silent speech datasets.
 
+## Usage
+
+The recommended way to run the notebook, across WSL2
+and Debian-based Linux distributions, is to use this
+command:
+
+```bash
+jupyter notebook --allow-root --no-browser
+```
+
 ## Datasets
 
 Below are a list of the currently analysed datasets:
 
-### Digital Voicing of Silent Speech
+### David Gaddy and Dan Klein
 
-[Arxiv Link](https://arxiv.org/pdf/2010.02960.pdf)
+[Digital Voicing of Silent Speech](https://arxiv.org/pdf/2010.02960.pdf)
+[An Improved Model for Voicing Silent Speech](https://arxiv.org/pdf/2106.01933.pdf)
+This dataset is analysed within the `dgaddy_analysis.ipynb`
+notebook as the 
 
 - Open vocabulary
     - Parallel Silent / Vocalised Speech (Es, Ev, Av)
