@@ -38,7 +38,7 @@ silently voicing speech. The idea behind this is similar to the project below:
     </a>
 </div>
 
-### Method
+### Comparison to Other Methods
 
 However, the approach used in the `MIT AlterEgo` project is relatively
 simple compared to the one used in the `Digital Voicing` paper. Below
@@ -60,3 +60,6 @@ The reason convolutional neural networks (CNNs) are used for this is that an
 audio signal is just an amplitude across time and is a 1-dimensional signal.
 We also know that a convolution in the time domain (i.e. a 1-D convolution)
 is equal to a multiplication in the frequency domain.
+
+### Method
+
