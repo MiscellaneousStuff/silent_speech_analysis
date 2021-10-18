@@ -19,6 +19,8 @@ these publications.
 
 ## Digital Voicing of Silent Speech
 
+### Introduction
+
 This paper was the initial paper which was published by the authors and
 denotes the main ideas behind their approach and how it differs to other
 approachs.
@@ -36,6 +38,8 @@ silently voicing speech. The idea behind this is similar to the project below:
     </a>
 </div>
 
+### Method
+
 However, the approach used in the `MIT AlterEgo` project is relatively
 simple compared to the one used in the `Digital Voicing` paper. Below
 we can see a general overview of the machine learning model used in
@@ -47,3 +51,12 @@ the `MIT AlterEgo` project.
       style="width: 100%; max-width: 640px;"
    />
 </div>
+
+This machine learning model is reminiscent of automatic speech recognition
+(ASR) models used in speech-to-text systems which classify raw audio recorded
+from microphones into text after first preprocessing the audio.
+
+The reason convolutional neural networks (CNNs) are used for this is that an
+audio signal is just an amplitude across time and is a 1-dimensional signal.
+We also know that a convolution in the time domain (i.e. a 1-D convolution)
+is equal to a multiplication in the frequency domain.

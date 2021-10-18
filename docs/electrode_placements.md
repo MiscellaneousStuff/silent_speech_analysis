@@ -1,0 +1,40 @@
+# Electrode Placements
+
+## About
+
+This document is a summary of different electrode placements across
+different sEMG Silent Speech papers. At first this document will just
+be filled with the different places on the face and throat authors
+chose to place electrodes and will be filled with more details as
+time goes on.
+
+### Digital Voicing of Silent Speech, An Improved Model for Voicing Silent Speech
+
+| No   | Location                            |
+| ---- | ----------------------------------- |
+| 1    | left cheek just above mouth         |
+| 2    | left corner of chin                 |
+| 3    | below chin below 3cm                |
+| 4    | throat 3cm left from Adam's apple   |
+| 5    | mid-jaw right                       |
+| 6    | right cheek just below mouth        |
+| 7    | right cheeck 2cm from nose          |
+| 8    | back of right cheek                 |
+| ref  | below left ear                      |
+| bias | below right ear                     |
+
+Order of electrodes does not imply importance, these were just the numberings
+of the electrodes within the data.
+
+### AlterEgo: A Personalized Wearable Silent Speech Interface
+
+| No   | Location            |
+| ---- | ------------------- |
+| 1    | Mental              |
+| 2    | Inner laryngeal     |
+| 3    | Outer laryngeal     |
+| 4    | Hyoid               |
+| 5    | Inner infra-orbital |
+| 6    | Outer infra-orbital |
+| 7    | Buccal              |
+| ref  | Wrist or earlobe    |
