@@ -38,3 +38,9 @@ of the electrodes within the data.
 | 6    | Outer infra-orbital |
 | 7    | Buccal              |
 | ref  | Wrist or earlobe    |
+
+The order of electrodes for this paper are the rankings of how relevant
+they were to classifying EMG signals into text within the papers pilot
+user study. The most important region was the Mental region (i.e. the chin)
+and the least important region was the Buccal (i.e. if you suck in your cheeks,
+just below the most sucked in part of your cheeks).
