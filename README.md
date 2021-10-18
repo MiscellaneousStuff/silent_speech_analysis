@@ -36,7 +36,7 @@ understand how they use their dataset to train their system.
         - 3.6 hours silent / 3.9 hours vocalised
         - Avverage sesison has 30 minutes of each mode
         - 1,588 utterances
-    - Non-parallel Vocalised Speech (Ev, AV)
+    - Non-parallel Vocalised Speech (Ev, Av)
         - 11.2 hours
         - Average session length 67 minutes
         - 5,477 utterances
