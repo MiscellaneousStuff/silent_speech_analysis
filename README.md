@@ -7,8 +7,17 @@ Analysis of open-source sEMG silent speech datasets.
 ## Usage
 
 The recommended way to run the notebook, across WSL2
-and Debian-based Linux distributions, is to use this
-command:
+and Debian-based Linux distributions, is to first switch
+to root by running this command which requires administrator
+permissions.
+
+```bash
+sudo su
+```
+
+This is required because the notebook contains commands which
+rely on `sudo`. Then, once you're logged in as the root account,
+run the following command to run the notebook.
 
 ```bash
 jupyter lab --allow-root --no-browser
