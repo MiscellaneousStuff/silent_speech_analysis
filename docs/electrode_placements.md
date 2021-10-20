@@ -18,7 +18,7 @@ time goes on.
 | 4    | throat 3cm left from Adam's apple   |
 | 5    | mid-jaw right                       |
 | 6    | right cheek just below mouth        |
-| 7    | right cheeck 2cm from nose          |
+| 7    | right cheek 2cm from nose          |
 | 8    | back of right cheek                 |
 | ref  | below left ear                      |
 | bias | below right ear                     |
@@ -30,13 +30,13 @@ of the electrodes within the data.
 
 | No   | Location            |
 | ---- | ------------------- |
-| 1    | Mental              |
-| 2    | Inner laryngeal     |
-| 3    | Outer laryngeal     |
-| 4    | Hyoid               |
+| 1    | Mental              | <!-- chin -->
+| 2    | Inner laryngeal     | <!-- throat 3cm left from Adam's apple -->
+| 3    | Outer laryngeal     | <!--  -->
+| 4    | Hyoid               | <!-- below chin below 3cm -->
 | 5    | Inner infra-orbital |
-| 6    | Outer infra-orbital |
-| 7    | Buccal              |
+| 6    | Outer infra-orbital | <!-- right cheek 2cm from nose -->
+| 7    | Buccal              | <!-- potential space in the cheek -->
 | ref  | Wrist or earlobe    |
 
 The order of electrodes for this paper are the rankings of how relevant
